@@ -8,7 +8,7 @@ The specification for this problem is written down as tests. Since we haven’t 
 
 Here's how it should work when you're done:
 
-[![Todo-CLI]https://github.com/tripathi-abhishek/todo-cli/blob/master/test-passed.jpg?raw=true]
+[![Todo-CLI]https://github.com/tripathi-abhishek/todo-cli/blob/master/test-passed.jpg]
 ## Getting started
 
 1. Install Python: Python is usually installed by default on most modern systems. To check what your currently have, open a terminal and run the following command

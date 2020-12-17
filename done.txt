@@ -1,0 +1,6 @@
+x 2020-12-17 find a banana
+x 2020-12-17 eat noodles
+x 2020-12-17 buy clothes
+x 2020-12-17 go to a zoo
+x 2020-12-17 mindtree
+x 2020-12-17 revise dbms
